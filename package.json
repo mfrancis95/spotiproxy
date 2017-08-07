@@ -1,0 +1,16 @@
+{
+  "name": "spotiproxy",
+  "version": "1.0.0",
+  "main": "lib/spotiproxy.js",
+  "scripts": {
+    "start": "node spotiproxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfrancis95/spotiproxy.git"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "portscanner": "^2.1.1"
+  }
+}
